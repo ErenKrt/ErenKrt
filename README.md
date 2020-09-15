@@ -3,11 +3,7 @@
 <a href="https://www.instagram.com/ep.eren/">
   <img align="left" alt="Eren's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br />
-<br />
-
-
+<br><br>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" />
 
 **Languages and Tools:**  
@@ -24,4 +20,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Eren's github stats](https://github-readme-stats.vercel.app/api?username=erenkrt&show_icons=true&hide_border=true)
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=erenkrt&show_icons=true&hide_border=true" />
+
