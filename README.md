@@ -21,5 +21,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=erenkrt&show_icons=true&hide_border=true" />
-<img align="right" alt="Spoti" src="http://34.91.241.91:3180/SVG/" />
+<img align="right" alt="Spoti" src="https://spotifysvg.vercel.app/" />
 
