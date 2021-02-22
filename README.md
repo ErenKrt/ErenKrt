@@ -1,24 +1,27 @@
 ### Hey 👋, I'm Eren
 
-<a href="https://www.instagram.com/ep.eren/">
-  <img align="left" alt="Eren's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br><br>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" />
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.instagram.com/ep.eren/"><img width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+  <a href= "mailto:kurteren07@gmail.com"><img width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+</p>
 
-**Languages and Tools:**  
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=erenkrt&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
+ 
+  <p>
+    <img src="https://views.whatilearened.today/views/github/erenkrt/views.svg"/>
+    <a href="https://github.com/erenkrt?tab=followers"><img src="https://img.shields.io/github/followers/erenkrt?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/erenkrt?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="mailto:kurteren07@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+  </p>
+</p>
+<br/><br/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkrt&count_private&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6">
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=erenkrt&show_icons=true&hide_border=true" />
-
+- 🔭 I’m currently working on MVC apps, in addition, i am developing projects on PHP, C#, NodeJS.
+- 🌱 I’m currently learning Game developing.
+- 📫 How to reach me: you can reach me from the social media links above
+- ⚡ Languages: PHP, C#, NodeJS, SQL
+- ⚡ Frameworks: Jquery, Electron, Vue, React, React-Native, Laravel
