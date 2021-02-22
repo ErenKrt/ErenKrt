@@ -11,7 +11,7 @@
   
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
  
-  <p>
+  <p align="center">
     <img src="https://views.whatilearened.today/views/github/erenkrt/views.svg"/>
     <a href="https://github.com/erenkrt?tab=followers"><img src="https://img.shields.io/github/followers/erenkrt?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/erenkrt?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
