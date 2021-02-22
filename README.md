@@ -8,17 +8,15 @@
 
 <p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=erenkrt&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
- 
-  <p align="center">
+</p>
+</br></br></br></br></br></br>
+ <p align="center">
     <img src="https://views.whatilearened.today/views/github/erenkrt/views.svg"/>
     <a href="https://github.com/erenkrt?tab=followers"><img src="https://img.shields.io/github/followers/erenkrt?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/erenkrt?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="mailto:kurteren07@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
   </p>
-</p>
-<br/><br/>
 
 - 🔭 I’m currently working on MVC apps, in addition, i am developing projects on PHP, C#, NodeJS.
 - 🌱 I’m currently learning Game developing.
