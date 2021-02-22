@@ -10,7 +10,7 @@
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=erenkrt&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
 </p>
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br>
  <p align="center">
     <img src="https://views.whatilearened.today/views/github/erenkrt/views.svg"/>
     <a href="https://github.com/erenkrt?tab=followers"><img src="https://img.shields.io/github/followers/erenkrt?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
