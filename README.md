@@ -6,10 +6,10 @@
   <a href= "mailto:kurteren07@gmail.com"><img width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 </p>
 
-<p>
+<p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=erenkrt&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erenkrt" />
  
   <p align="center">
     <img src="https://views.whatilearened.today/views/github/erenkrt/views.svg"/>
