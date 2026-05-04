@@ -1,6 +1,6 @@
 ## I'm happy you're here!
 
-I'm 22 years old and I've been writing code since I was 15. The reason I started writing code at the age of 15 was in games. I am continuing this path as a full-stack developer, which I entered with the curiosity of how games are made and what is the basis. I am passionate about learning new languages ​​and new technologies on this path. I continue to develop my own projects as open-source and try to benefit the community by creating PRs on open-source platforms. Meanwhile, I am working with more than one team and developing projects. Feel free to connect with me here:
+I'm 25 years old and I've been writing code since I was 15. The reason I started writing code at the age of 15 was in games. I am continuing this path as a full-stack developer, which I entered with the curiosity of how games are made and what is the basis. I am passionate about learning new languages ​​and new technologies on this path. I continue to develop my own projects as open-source and try to benefit the community by creating PRs on open-source platforms. Meanwhile, I am working with more than one team and developing projects. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-erenkrt-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erenkrt/)
 [![Instagram Badge](https://img.shields.io/badge/-ep.eren-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ep.eren)
